@@ -17,7 +17,7 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 export GEMINI_API_KEY=...        # необязательно: без ключа работает шаблонный ответ
 .venv/bin/streamlit run app.py
 ```
-Публикация в интернете: [docs/DEPLOY.md](docs/DEPLOY.md).
+Публикация в интернете: https://hackaton-build-with-ai.onrender.com
 
 ## Данные (автоматизированный сбор)
 ```
